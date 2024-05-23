@@ -1,0 +1,3 @@
+név: dr. Mohácsi Gyula
+szak: Gazdaságinformatikus
+neptun kód: UIQ3CE
